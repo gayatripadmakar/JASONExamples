@@ -1,0 +1,21 @@
+[
+       {
+       "name": "gayatri",
+       "drink": "juice",
+       "id": "one"
+       },
+       
+         {
+         "name": "amita",
+         "drink": "tea",
+         "id":"two"
+         },
+         
+          {
+          "name":"nisha",
+          "drink":"coke",
+          "id": "three"
+          
+       }
+       
+       ]
